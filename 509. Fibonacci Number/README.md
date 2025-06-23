@@ -38,16 +38,7 @@ Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3
 
 - `0 <= n <= 30`
 
-## Solution Approaches
 
-Solutions can be implemented in multiple ways, such as:
-
-- **Recursive** (naive, with exponential time)
-- **Memoization** (top-down dynamic programming)
-- **Bottom-up Dynamic Programming**
-- **Iterative with constant space** (optimal for this constraint)
-
-You can find the implementation in the `solution.py` (or equivalent file in the repo).
 
 ## License
 
